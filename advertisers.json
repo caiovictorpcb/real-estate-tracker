@@ -1,0 +1,34 @@
+{
+  "advertisers": [
+    {
+      "name": "Carlos Sampaio Imóveis",
+      "normalizedName": "carlos sampaio imoveis",
+      "phones": ["8632336868"],
+      "website": "https://www.carlossampaioimoveis.com/",
+      "portalsSeen": ["ZAP Imóveis", "OLX", "Viva Real"],
+      "firstSeen": "19/08/2026",
+      "lastSeen": "19/08/2026",
+      "notes": ""
+    },
+    {
+      "name": "Felippe Porto",
+      "normalizedName": "felippe porto",
+      "phones": ["8632331001"],
+      "website": "http://portoimobiliaria.imb.br",
+      "portalsSeen": ["ZAP Imóveis", "OLX", "Viva Real"],
+      "firstSeen": "19/08/2026",
+      "lastSeen": "19/08/2026",
+      "notes": "Corretor/sócio da Porto Imobiliária (Ininga, Teresina)."
+    },
+    {
+      "name": "R & M Imobiliária",
+      "normalizedName": "r & m imobiliaria",
+      "phones": ["86995718282"],
+      "website": null,
+      "portalsSeen": ["ZAP Imóveis", "OLX", "Viva Real"],
+      "firstSeen": "19/08/2026",
+      "lastSeen": "19/08/2026",
+      "notes": "Nenhum site próprio confirmado com boa confiança; presença em facebook.com/remimobiliaria. imorm.pt é uma imobiliária portuguesa homônima, não é a mesma empresa."
+    }
+  ]
+}
