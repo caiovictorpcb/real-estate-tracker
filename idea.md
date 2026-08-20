@@ -4,8 +4,8 @@
 FILTROS
 - Objetivo: alugar
 - Tipo de imóvel: casa
-- Cidade(s) / região: 
-- Bairros preferidos: 
+- Cidade(s) / região: Teresina, PI
+- Bairros preferidos: Dirceu, Dirceu 2, Itararé, Novo Horizonte, Renascença, Gurupi, Parque Ideal, Morada do Sol, Colorado
 - Quartos (mínimo): 2
 - Área mínima (m²): 50
 - Valor máximo TOTAL (aluguel + condomínio, ou preço de compra): 1300

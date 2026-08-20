@@ -7,7 +7,7 @@
       "website": "https://www.carlossampaioimoveis.com/",
       "portalsSeen": ["ZAP Imóveis", "OLX", "Viva Real"],
       "firstSeen": "19/08/2026",
-      "lastSeen": "19/08/2026",
+      "lastSeen": "20/08/2026",
       "notes": ""
     },
     {
@@ -17,7 +17,7 @@
       "website": "http://portoimobiliaria.imb.br",
       "portalsSeen": ["ZAP Imóveis", "OLX", "Viva Real"],
       "firstSeen": "19/08/2026",
-      "lastSeen": "19/08/2026",
+      "lastSeen": "20/08/2026",
       "notes": "Corretor/sócio da Porto Imobiliária (Ininga, Teresina)."
     },
     {
@@ -27,8 +27,18 @@
       "website": null,
       "portalsSeen": ["ZAP Imóveis", "OLX", "Viva Real"],
       "firstSeen": "19/08/2026",
-      "lastSeen": "19/08/2026",
+      "lastSeen": "20/08/2026",
       "notes": "Nenhum site próprio confirmado com boa confiança; presença em facebook.com/remimobiliaria. imorm.pt é uma imobiliária portuguesa homônima, não é a mesma empresa."
+    },
+    {
+      "name": "HR Imóveis",
+      "normalizedName": "hr imoveis",
+      "phones": ["8699859-7555"],
+      "website": "https://www.hrimoveispi.com.br/",
+      "portalsSeen": ["Chaves na Mão"],
+      "firstSeen": "20/08/2026",
+      "lastSeen": "20/08/2026",
+      "notes": "Sede na Ininga, Teresina (CRECI 0293). Telefone confere com o anúncio no Chaves na Mão."
     }
   ]
 }
